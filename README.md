@@ -1,3 +1,8 @@
+<h1 align="center"> 𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗬 𝗪𝗘𝗘𝗗𝗟𝗘𝗔𝗙</h1>
+
+<p align="center"><a href="https://t.me/gamingggggg3"><img src="https://te.legra.ph/file/365c34363e67fef743d72.jpg" width="400"></a></p>
+
+
 # ʙᴀɴ ᴀʟʟ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇs!!!
 
 ᴛʜɪs ʙᴏᴛ ᴄᴀɴ ᴅᴇsᴛʀᴏʏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ɪɴ ᴀ ғᴇᴡ sᴇᴄᴏɴᴅs...
@@ -6,7 +11,7 @@
 ғɪʀsᴛ ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ɢɪᴠᴇ sᴛᴀʀ ᴛᴏ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀɴᴅ ᴇᴅɪᴛ ʀᴇᴀᴅᴍᴇ.ᴍᴅ ғɪʟᴇ ᴇɴᴛᴇʀ ʏᴏᴜʀ ғᴏʀᴋᴇᴅ ᴜʀʟ ʀᴇᴘᴏ ʟɪɴᴋ✨
 
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iVINGSTYLE/BANALL)
+[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gamingbuddyyy/BANALL)
 
 
 
